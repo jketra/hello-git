@@ -1,1 +1,2 @@
-cout << "Hello Git!";
+cout << "Hello Git!" << endl;
+cout << "Hello everybody!" << endl;
